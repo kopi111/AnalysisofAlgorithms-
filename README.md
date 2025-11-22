@@ -1,11 +1,21 @@
-# AnalysisofAlgorithms-
+# Sorting Algorithm Comparison Tool
 
-A professional software project demonstrating best practices in software development.
+C++ application comparing Bubble Sort and Quick Sort performance on varying dataset sizes.
 
 ## Features
-- Clean code architecture
-- Modern technology stack
-- Professional implementation
+- **Algorithms**: Bubble Sort and Quick Sort implementations
+- **Dataset Sizes**: 1K, 2K, and 30K records
+- **Performance Timing**: Chrono-based execution time measurement
+- **CSV Output**: Exportable results for analysis
+
+## Technology Stack
+- C++
+- Standard Template Library
+- File I/O operations
+- High-resolution timing
+
+## Use Case
+Educational tool for understanding algorithm complexity and performance differences.
 
 ## License
 MIT License
